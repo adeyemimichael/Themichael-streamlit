@@ -1,7 +1,7 @@
 pandas
 nump
 streamlit
-sklearn
+sk-learn
 joblib
 matplotlib
 ipython

@@ -1,7 +1,7 @@
 # import all the app dependencies
 import pandas as pd
 import numpy as np
-import skslearn
+import sklearn
 import streamlit as st
 import joblib
 import matplotlib

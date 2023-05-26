@@ -1,7 +1,7 @@
 # import all the app dependencies
 import pandas as pd
 import numpy as np
-from sklearn import RTA Dataset.csv
+from sklearn import Dataset.csv
 import streamlit as st
 import joblib
 import matplotlib
